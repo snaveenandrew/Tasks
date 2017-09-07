@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026953343237",
+    "firebase_url": "https://testlt-df218.firebaseio.com",
+    "project_id": "testlt-df218",
+    "storage_bucket": "testlt-df218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026953343237:android:ecb8f2af7dba120a",
+        "android_client_info": {
+          "package_name": "com.quitricx.testlt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026953343237-uugfdoiosu442rce1m16b6b1dsr7ri25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quitricx.testlt",
+            "certificate_hash": "f5e0790763838a1345428888c71796753829ef54"
+          }
+        },
+        {
+          "client_id": "1026953343237-e67ih7j7j3korls17e6oqso7u1v8g05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSBDe-sj1r8OYS510e4THPdn63AS_jQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026953343237-e67ih7j7j3korls17e6oqso7u1v8g05n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
